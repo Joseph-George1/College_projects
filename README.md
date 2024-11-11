@@ -13,12 +13,13 @@ Each folder in this repository represents a unique project. Within each folder, 
 ## Contributors
 
 Thanks to all of the contributors who helped bring these projects to life:
-
-- **[@Mennaahmed08](https://github.com/Mennaahmed08)** - Menna Ahmed
-- **[@Joseph-George1](https://github.com/Joseph-George1)** - Joseph George
-- **[@zyadgamal77](https://github.com/zyadgamal77)** - Zyad Gamal
-- **[@temanhattan](https://github.com/temanhattan)** - Zeyad Saad
-- **[@Haleez007](https://github.com/Haleez007)** - Abdelhalem Ramadan
+| Contributor | GitHub Profile |
+|-------------|----------------|
+| ![Menna Ahmed](https://github.com/Mennaahmed08.png?size=100) | [@Mennaahmed08](https://github.com/Mennaahmed08) - Menna Ahmed |
+| ![Joseph George](https://github.com/Joseph-George1.png?size=100) | [@Joseph-George1](https://github.com/Joseph-George1) - Joseph George |
+| ![Zyad Gamal](https://github.com/zyadgamal77.png?size=100) | [@zyadgamal77](https://github.com/zyadgamal77) - Zyad Gamal |
+| ![Zeyad Saad](https://github.com/temanhattan.png?size=100) | [@temanhattan](https://github.com/temanhattan) - Zeyad Saad |
+| ![Abdelhalem Ramadan](https://github.com/Haleez007.png?size=100) | [@Haleez007](https://github.com/Haleez007) - Abdelhalem Ramadan |
 
 ## License
 
